@@ -1,0 +1,25 @@
+a:hover {
+  color: red; 
+  text-decoration: none;
+}
+
+span#req {
+    color: red;
+}
+
+span.error {
+    color: red;
+}
+
+h1 {
+    text-align: center;
+}
+
+span.center {
+    align-self: center;
+}
+
+span.right {
+    color: green;
+}
+
